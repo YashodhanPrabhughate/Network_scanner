@@ -2,7 +2,6 @@
 
 This is a simple network scanner written in Python. It utilizes ARP requests to discover devices on a given network and performs a lightweight scan on each discovered device using Nmap.
 
-![image](assets/demo.png)
 
 ## Usage
 
